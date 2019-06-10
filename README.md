@@ -1,4 +1,4 @@
-# projetoOPE
+# Projeto Suplementos App 
 Repository created for the application that management supplement store.
 
 **"Projeto Suplementos App"** is a software developed for the ope(oficina projeto empresa) a discipline into Impacta Technology College.

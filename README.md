@@ -5,7 +5,7 @@ Repository created for the application that management supplement store.
 
 ### How to run?
 
-##Database configuration
+## Database configuration
 copy the projetoOPE.sql to your mysql workbench, and run the code.
 
 ## Node project Configuration

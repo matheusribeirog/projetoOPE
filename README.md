@@ -19,4 +19,4 @@ copy the projetoOPE.sql to your mysql workbench, and run the code.
 
 5° return to folder into a CMD /projetoOPE
 
-6° type into a terminal ## node app 
+6° type into a terminal ##node app 

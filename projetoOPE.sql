@@ -211,7 +211,7 @@ insert into endereco(rua,cidade,numero,estado,idCliente) values('rua da silva','
 
 -- tabela nutricionista
 
-insert into nutricionista(crn,idColaborador) values (123,3);
+insert into nutricionista(crn,idColaborador) values (123,2);
 
 -- Fornecedor 
 insert into fornecedor(cnpj,email,endereco,telefone) values('231','email@gmail.com','rua tal',115555);

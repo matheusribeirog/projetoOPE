@@ -21,3 +21,5 @@ copy the projetoOPE.sql to your mysql workbench, and run the code.
 
 6° type into a terminal ↓
 ## node app 
+or
+## nodemon app

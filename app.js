@@ -1,5 +1,5 @@
 let app = require('./config/server');
-let port = 8080
+let port = 80
 
 app.listen(port,()=>{
 	console.log("servidor funcionando na porta => https://localhost:"+port);
